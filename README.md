@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/joaovitors1g/react-jest-study/master/.github/logo.png" width="200" />
+</p>
 <h1 align="center">
   ReactJS + Jest
 </h1>
